@@ -4,15 +4,13 @@ title: Sobre el Autor
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Estudiante de iNGENIERIA EN SOFTWARE. Nacido en Guayaquil el 1 de Enero del 2001.Graduado como BACHILLER tecnico de Software en el Colegio Nacional "Guayaquil"
+> ### Estudios
+> **Jardín** Jardin de Infantes "Mercedez Gonsalez de Moscoso"
+> **Escuela** Escuela Fiscal Mixta "Segundo Jimenez Riera"
+> **Colegio** Instituto Tecnológico "Guayaquil"
+> 
+> ### Quien Soy?
+> soy una persona amable, carismática que apoya en lo que se debe apoyar y si puedo. Me gustan las películas de Ciencia Ficción soy fanático de la Saga de Transformes, las películas de Marvel y las series de intriga y acción.
+### Aspiraciones
+> En mi etapas profesional, aspiro graduarme y conseguir un buen trabajo para asi sacar a mi familia adelante y apoyarlos económicamente con la situación del hogar.
