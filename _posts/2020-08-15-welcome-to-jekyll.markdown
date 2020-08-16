@@ -66,6 +66,21 @@ cliente. <br>
 
 <strong> Evolucion </strong> cambiar/adaptar el software a las nuevas demandas. <br>
 Estas actividades varian dependiendo de la organizacion y del tipo de
-sistema a desarrollarse.
+sistema a desarrollarse. <br>
+<h3> >Cuales son los atributos de calidad de software?</h3> <br>
+El software debe proveer la funcionalidad y desempe~no requeridos por el usuario y debe ser
+mantenible, contable y aceptable <br>
+<strong> Mantenible </strong> el software debe poder evolucionar para continuar
+cumpliendo con las especificaciones. <br>
+<strong> Confiable </strong> el software no debe causar da~nos fsicos o economicos en
+el caso de que falle <br>
+<strong> Eficiente </strong> el software no debe desperdiciar los recursos del sistema. <br>
+<strong> Aceptable </strong> el software debe ser aceptado por los usuarios para los
+que fue diseñado. Debe ser entendible, utilizable y compatible con
+otros sistemas. <br>
+
+
+
+
 
 
