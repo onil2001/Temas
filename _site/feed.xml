@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-16T02:31:16-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Introduccion a la Ingenieria en software</title><link href="http://localhost:4000/jekyll/update/2020/08/15/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Introduccion a la Ingenieria en software" /><published>2020-08-15T14:43:25-05:00</published><updated>2020-08-15T14:43:25-05:00</updated><id>http://localhost:4000/jekyll/update/2020/08/15/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/08/15/welcome-to-jekyll.html">&lt;h2&gt; Intoduccion &lt;/h2&gt;
+&lt;h3&gt; La Ingenieria en Software &lt;/h3&gt;
+&lt;p&gt;*La economia de todos los paises desarrollados es dependiente del
+software. &lt;br /&gt;
+*Actualmente cada vez mas sistemas son controlados por software. &lt;br /&gt;
+*La Ingenieria de Software concierne a teorias, metodos y herramientas
+para el desarrollo profesional de software. &lt;br /&gt;
+*El gasto en la Ingenieria de Software representa un alto porcentaje del
+PIB de los paises desarrollados&lt;/p&gt;
+
+&lt;h3&gt; Que es software? &lt;/h3&gt;
+&lt;p&gt;Programas de computo y su documentacion asociada: requerimientos,
+modelos de diseño y manuales de usuario.
+El software puede ser generico o ad hoc. &lt;br /&gt;
+     &lt;strong&gt;I Generico: &lt;/strong&gt; desarrollado para venderse a multiples clientes (Excel, Word,
+     etc.) &lt;br /&gt;
+     &lt;strong&gt;I Ad hoc: &lt;/strong&gt;desarrollado bajo demanda del cliente a un desarrollador
+    especifico. &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;El software nuevo puede ser creado desarrollando nuevos programas,
+congurando sistemas de software generico o reutilizando software
+existente.&lt;/p&gt;
+
+&lt;h3&gt; Que es la Ingenieria en Software &lt;/h3&gt;
+&lt;p&gt;Una disciplina de la Ingeniera que concierne a todos los aspectos de
+la produccion de software &lt;br /&gt;
+Los Ingenieros de Software deben: &lt;br /&gt;
+Adoptar un enfoque sistematico para llevar a cabo su trabajo &lt;br /&gt;
+I Utilizar las herramientas y tecnicas mas apropiadas dependiendo &lt;br /&gt;
+&lt;br /&gt;*del problema a resolver,
+&lt;br /&gt; *las restricciones del desarrollo y
+&lt;br /&gt; *los recursos disponibles.
+&lt;br /&gt;&lt;/p&gt;
+&lt;h3&gt; Cual es la diferencia entre Ingeniera de Software y Ciencias
+Computacionales? &lt;/h3&gt;
+&lt;p&gt;Las Ciencias Computacionales conciernen a la teoria y fundamentos
+de cualquier sistema de computo (hardware o software). &lt;br /&gt;
+ La Ingenieria de Software concierne los aspectos practicos del
+desarrollo y puesta en marcha de productos utiles de software. &lt;br /&gt;
+ La Ingenieria de Software aun esta lejos de ser considerada una
+ciencia como los son la quimica o la fisica &lt;br /&gt;&lt;/p&gt;
+
+&lt;h3&gt; Cual es la diferencia entre Ingeniera de Software e Ingenieria de
+Sistemas? &lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;La Ingenieria de Sistemas concierne a todos los aspectos del desarrollo
+de sistemas basados en computo incluyendo hardware, software y la
+ingenieria de procesos.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">Intoduccion La Ingenieria en Software *La economia de todos los paises desarrollados es dependiente del software. *Actualmente cada vez mas sistemas son controlados por software. *La Ingenieria de Software concierne a teorias, metodos y herramientas para el desarrollo profesional de software. *El gasto en la Ingenieria de Software representa un alto porcentaje del PIB de los paises desarrollados</summary></entry></feed>
