@@ -55,11 +55,11 @@ ingenieria de procesos.
 <h3> >Que es un proceso de software?</h3>
 Un conjunto estructurado de actividades, cuya meta es el
 desarrollo o evolucion de un software.
-Algunas actividades genericas en todos los procesos de software son:
+Algunas actividades genericas en todos los procesos de software son: <br>
 <strong> Especificacion </strong>, que debe hacer el software y cuales son sus
 especificaciones de desarrollo.<br>
 
-<strong> Desarrollo </strong> produccion del sistema de software
+<strong> Desarrollo </strong> produccion del sistema de software <br>
 
 <strong> Validacion </strong> verificar que el software cumple con lo solicitado por el
 cliente. <br>
