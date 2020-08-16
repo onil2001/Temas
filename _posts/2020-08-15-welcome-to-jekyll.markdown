@@ -49,9 +49,20 @@ ciencia como los son la quimica o la fisica <br>
 <h3> Cual es la diferencia entre Ingeniera de Software e Ingenieria de
 Sistemas? </h3>
 <br>La Ingenieria de Sistemas concierne a todos los aspectos del desarrollo
-de sistemas basados en computo incluyendo hardware, software y la
+de sistemas basados en computo incluyendo hardware, software y la
 ingenieria de procesos.
 
-
+<h3> >Que es un proceso de software?</h3>
+Un conjunto estructurado de actividades, cuya meta es el
+desarrollo o evolucion de un software.
+Algunas actividades genericas en todos los procesos de software son:
+<strong> Especificacion </strong>, que debe hacer el software y cuales son sus
+especificaciones de desarrollo.<br>
+<strong> Desarrollo </strong> produccion del sistema de software
+<strong> Validacion </strong> verificar que el software cumple con lo solicitado por el
+cliente. <br>
+<strong> Evolucion </strong> cambiar/adaptar el software a las nuevas demandas. <br>
+Estas actividades varian dependiendo de la organizacion y del tipo de
+sistema a desarrollarse.
 
 
