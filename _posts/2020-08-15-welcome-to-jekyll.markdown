@@ -1,5 +1,5 @@
 ---
-layout: Temas
+layout: posts
 title:  "Introduccion a la Ingenieria en software"
 date:   2020-08-15 14:43:25 -0500
 categories: jekyll update
