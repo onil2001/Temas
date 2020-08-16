@@ -15,5 +15,5 @@ Estudiante de iNGENIERIA EN SOFTWARE. Nacido en Guayaquil el 1 de Enero del 2001
 
 <h2>  Quien Soy? </h2> <br>
  soy una persona amable, carismática que apoya en lo que se debe apoyar y si puedo. Me gustan las películas de Ciencia Ficción soy fanático de la Saga de Transformes,<br> las películas de Marvel y las series de intriga y acción. <br>
-<h2>  Aspiraciones <h2>  <br>  
+<h2>  Aspiraciones </h2>  <br>  
  En mi etapas profesional, aspiro graduarme y conseguir un buen trabajo para asi sacar a mi familia adelante y apoyarlos económicamente con la situación del hogar.
