@@ -67,7 +67,8 @@ cliente. <br>
 <strong> Evolucion </strong> cambiar/adaptar el software a las nuevas demandas. <br>
 Estas actividades varian dependiendo de la organizacion y del tipo de
 sistema a desarrollarse. <br>
-<h3> >Cuales son los atributos de calidad de software?</h3> <br>
+
+<h3> Cuales son los atributos de calidad de software?</h3> <br>
 El software debe proveer la funcionalidad y desempe~no requeridos por el usuario y debe ser
 mantenible, contable y aceptable <br>
 <strong> Mantenible </strong> el software debe poder evolucionar para continuar
@@ -78,6 +79,16 @@ el caso de que falle <br>
 <strong> Aceptable </strong> el software debe ser aceptado por los usuarios para los
 que fue diseñado. Debe ser entendible, utilizable y compatible con
 otros sistemas. <br>
+
+<h3> ¿Cuales son los retos de la Ingenieria de Software?</h3> <br>
+<strong> Heterogeneidad: </strong> Desarrollar tecnicas para construir software que
+pueda hacer frente a plataformas y ambientes de ejecucion.
+heterogeneos (diferentes tipos de Hw y Sw) <br>
+<strong> Tiempos de entrega </strong> Desarrollar tecnicas que permitan reducir los
+tiempos de entrega del software sin comprometer la calidad <br>
+<strong> Confianza </strong> Desarrollar tecnicas que permitan que los usuarios
+confien plenamente en el software. <br>
+
 
 
 
