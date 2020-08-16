@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Estudiante de iNGENIERIA EN SOFTWARE. Nacido en Guayaquil el 1 de Enero del 2001.Graduado como BACHILLER tecnico de Software en el Colegio Nacional "Guayaquil" <b>
-<h2> ### Estudios</h2> <br>
+<h2> Estudios</h2> <br>
  
 **Jardín** Jardin de Infantes "Mercedez Gonsalez de Moscoso" <br>
  
