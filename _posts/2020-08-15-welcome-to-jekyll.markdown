@@ -123,7 +123,7 @@ aplicaciones.
 Incluir procesos de calidad en los sistemas, calculando métricas
 e indicadores y chequeando la calidad del software producido. <br>
 
-<strong> <h3> Origen de IS: </h3> </strong>
+<h3>strong>  Origen de IS:  </strong></h3>
 Ingeniería del So-ware, es el término utlizado por Fritz Bauer en la
 primera conferencia sobre desarrollo de so-ware patrocinada por el
 Comité de Ciencia de la OTAN celebrada en Garmisch (Alemania), en
@@ -134,7 +134,7 @@ principios probados, técnicas, lenguajes y herramientas para la
 creación y mantenimiento, dentro de un coste razonable, de sofware
 que satisfaga las necesidades de los usuarios".<br>
 
-<strong> <h4> Origen de IS (continúa) </h4> </strong>
+<h4><strong>  Origen de IS (continúa) </strong> </h4> 
 Su origen se debió a que el entorno de desarrollo de sistemas
 software adolecía de:
 Retrasos considerables en la planificación
