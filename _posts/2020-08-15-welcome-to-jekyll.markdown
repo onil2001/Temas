@@ -391,4 +391,4 @@ descubiertos. Se realizan mejoras de implementacion. Se identifican
 nuevos requisitos. <br>
 
 <h3> <strong> Modelo con prototipos</strong> </h3> <br>
-<center><img src="https://raw.githubusercontent.com/onil2001/Temas/master/img/cascada.jpg" width="300" height="300"> </center> <br>
+<center><img src="https://raw.githubusercontent.com/onil2001/Temas/master/img/prototipo.jpg" width="300" height="300"> </center> <br>
