@@ -123,7 +123,7 @@ aplicaciones.
 Incluir procesos de calidad en los sistemas, calculando métricas
 e indicadores y chequeando la calidad del software producido. <br>
 
-<h3>strong>  Origen de IS:  </strong></h3>
+<h3><strong>  Origen de IS:  </strong></h3>
 Ingeniería del So-ware, es el término utlizado por Fritz Bauer en la
 primera conferencia sobre desarrollo de so-ware patrocinada por el
 Comité de Ciencia de la OTAN celebrada en Garmisch (Alemania), en
@@ -167,8 +167,90 @@ máquina. <br>
 -Especificación formal<br>
 -Programación automática.<br>
 
+<h3><strong>  La evolución del software: </strong> </h3> <br> 
+El término “evolución” del software se utiliza desde los sesenta
+para denominar la dinámica de crecimiento del software.
+Una definición atribuida a Lehman y Ramil dice que la evolución
+del software es “todas las actividades de programación que se
+orientan a generar una nueva versión de un so-ware a partir de
+una versión anterior operativa. <br>
 
+<h3> <strong> La crisis del software: </strong> </h3>
+¿Cómo se define crisis?
+-La palabra crisis se define en el diccionario como "un punto
+decisivo en el curso de algo; momento, etapa, o evento decisivo
+o crucial". Sin embargo para el software no ha habido ningún
+punto crucial, sólo una lenta evolución.
+-La crisis en la industria del software permanece durante
+muchos años, lo cual parece una contradicción para el término.
+Lo que si se podría decir es que hay un problema crónico en el
+desarrollo de software. <br>
 
+<h3> <strong> La crisis del software (continúa) </strong> </h3>
+-Formalismo y metodología
+-Herramientas de soporte
+-Administración eficaz <br>
+
+<h3> <strong>La crisis del software </h3> </strong>
+Actualmente está surgiendo una gran expectativa ante la evolución de
+la Ingeniería del Software, al ir apareciendo nuevos métodos y herramientas
+formales que van a permitir en el futuro un planteamiento de ingeniería en
+el proceso de elaboración de software.
+Dicho planteamiento permitirá dar respuesta a los problemas de: <br>
+- Administración <br>
+- Calidad <br>
+- Productividad <br>
+- Fácil mantenimiento <br>
+Este último es uno de los grandes problemas, pues puede llegar a suponer
+un importe superior al 60% del total del coste del software.<br>
+
+<h3> <strong>¿Por qué se crea la IS? </h3> </strong>
+-La ingeniería de software se crea debido a las siguientes características:
+-El producto debe ser confiable y realizar sólo las tareas especificadas en los
+requerimientos. <br>
+-El producto debe ser robusto. Esto quiere decir que el software se comporta
+de manera razonable, incluso en circunstancias no anticipadas desde el
+principio. <br>
+-El producto de software debe ser lo más reutilizable posible, de manera tal
+que pueda ser incorporado en otro producto de software si se requiere. <br>
+-El producto de software debe ser eficiente en el uso de los recursos del
+sistema. <br>
+
+<h3> <strong> ¿Por qué se crea la IS? (continúa) </h3> </strong>
+-Se requiere desarrollar el software en una manera que lo haga evolutivo,
+de forma tal que se pueda agregar funcionalidad adicional sin efectos
+perjudiciales. <br>
+-El producto de software debe cumplir con los requerimientos de
+rendimiento especificados, es decir, debe cumplir algunas de las restricciones
+relacionadas al rendimiento. <br>
+-El producto de software tendrá mayor valor si es portable, es decir que
+puede trabajar bajo diferentes plataformas de software y ambientes
+(hardware, sistemas operativos, etc.). <br>
+-El producto de software debe ser utilizable, es decir, el aprendizaje de su
+uso debe ser los suficientemente sencillo por parte de personas no
+especialistas. <br>
+
+<h3> <strong> El software en la actualidad: </h3> </strong>
+Las direcciones en las que evoluciona la ingeniería del so-ware
+hoy en día pueden agruparse de la siguiente manera:
+-Metodologías ágiles: métodos de desarrollo de so-ware
+basados en procesos itera7vos e incrementales, donde los
+requisitos y soluciones evolucionan durante la colaboración.
+Metodologías como Scrum (1995), Extreme Programming
+(1999) o DSDM (1995) fueron evolucionando hasta que en
+Febrero del 2001 se publicó “Manifesto for Agile So-ware
+Development” para definir la aproximación ahora conocida
+como metodologías ágiles.<br>
+
+<h3> <strong>El software en la actualidad (continúa) </h3> </strong> <br>
+-Experimentación: es una rama de la ingeniería del software
+interesada en realizar experimentos sobre software, recolectar
+datos y deducir leyes y teorías de los mismos.
+-Desarrollo dirigido por modelos: primero se desarrollan
+modelos textuales gráficos del software a construir, y
+posteriormente se construye el software.
+-Líneas de productos software, en lugar de productos
+individuales. <br>
 
 
 
