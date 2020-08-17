@@ -264,5 +264,17 @@ individuales. <br>
 
 -Medidas Indirectas: Cuando hablamos de sistemas informáticos no siempre es posible realizar una medida directa, porque no disponemos del instrumento adecuado que nos permita realizar esa medición <br>
 
+<h2> <strong> MÉTRICAS DEL SOFTWARE </strong> </h2> <br>
+Son las que están relacionadas con el desarrollo del software como funcionalidad, complejidad, eficiencia.<br>
 
+<strong> Entre las métricas del software tenemos las siguientes: </strong> <br>
+
+<strong>  1. Métricas técnicas: </strong> Se centran en las características del software. Aquí medimos la complejidad lógica y el grado de modularidad del sistema. Mide la estructura del sistema, el cómo está hecho. <br>
+<strong> 2. Métricas de calidad: </strong> Son todas las métricas de software que definen de una u otra forma la calidad del software; tales como corrección, exactitud, integridad, facilidad de uso, estructuración o modularidad, pruebas, facilidad de mantenimiento, reusabilidad, cohesión del módulo, acoplamiento del módulo, etc.<br>
+Estas son los puntos críticos en el diseño, codificación, pruebas y mantenimiento.<br>
+Proporcionan una indicación de cómo se ajusta el software a los requisitos implícitos y explícitos del cliente. Es decir cómo voy a medir para que mi sistema se adapte a los requisitos que me pide el cliente. <br>
+<strong> - Corrección: </strong>  es el grado en que el software desempeña la función para la que fue creado y se mide en defectos por KLDC.<br>
+
+<strong> - Facilidad de Mantenimiento:</strong> es la sencillez con que un programa puede corregirse si se encuentra un error, al adaptarse si su entorno cambio o mejorar si el cliente cambia los requisitos y se mide en forma indirecta en TMC (Tiempo Medio de Cambio).<br>
+<strong> - Integridad:</strong> es la habilidad de un sistema para resistir ataques que requiere la definición de amenaza y seguridad y se calcula: integridad = 1 – (amenaza * (1 – seguridad)).Proceso de Ingeniería de software <br>
 
