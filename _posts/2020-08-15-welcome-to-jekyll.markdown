@@ -306,3 +306,70 @@ La Ingeniería del Software es la rama de la ingeniería que crea y mantiene las
 
 -El software no se estropea, pero se deteriora. Durante su vida, el software sufre cambios (mantenimiento). Conforme se hacen los cambios, es bastante probable que se introduzcan nuevos defectos, lo que hace que el software se vaya deteriorando debido a estos cambios.<br>
 
+<h2> <strong> IMPORTANCIA DEL PROCESO DE SW </strong> </h2> <br>
+Un proceso software debe especificar:<br>
+* La secuencia de actividades a realizar por el equipo de desarrollo<br>
+-Flujo de actividades<br>
+* Los productos que deben crearse<br>
+-Resultados del trabajo (modelos, documentos, datos informes...)<br>
+
+- Qué y cuándo<br>
+*La asignación de tareas a cada miembro del equipo y al equipo como un todo<br>
+-Los criterios para controlar el proceso<br>
+- Se establece el control de gestión de los proyectos software<br>
+- Establecimiento de hitos<br>
+Las posibles heurísticas<br>
+- Facilita la gestión del proyecto<br>
+- Establece una división del trabajo<br>
+* Facilita la comunicación de los miembros del equipo<br>
+-Permite la reasignación y la reutilización de personal especializado<br>
+-Transferencia entre proyectos<br>
+* Mejora la productividad y el desarrollo<br>
+-El desarrollo es reproducible<br>
+* Establece el contexto en el que se aplican los métodos técnicos<br>
+* Gestiona el cambio adecuadamente<br>
+* Asegura la calidad<br>
+<h1> <strong> ESTÁNDARES RELACIONADOS CON EL PROCESO DE SW </strong> </h1>
+<h3> <strong> ESTÁNDAR ISO/IEC/IEEE 12207:2017 </strong> </h3>
+- El estándar ISO/IEC/IEEE 12207:2017 [ISO/IEC/IEEE, 2017] relativo a los procesos del ciclo de vida del software <br>
+
+- Se aplica a la adquisición de sistemas de software, productos y servicios, al suministro, desarrollo, operación, mantenimiento y eliminación de productos de software o componentes de software de cualquier sistema, ya sea que se realice interna o externamente a una organización.<br>
+
+- Se incluyen aquellos aspectos de la definición del sistema necesarios para proporcionar el contexto de los productos y servicios de software.<br>
+
+- También proporciona procesos que pueden emplearse para definir, controlar y mejorar los procesos del ciclo de vida del software dentro de una organización o de un proyecto.<br>
+
+- Esta norma no fomenta o especifica ningún modelo concreto de ciclo de vida, gestión del software o método de ingeniería, ni prescribe cómo realizar ninguna de las actividades.<br>
+<h1> <strong> Modelo de proceso de software </strong> </h1>
+Representacion formal y simplificada de un proceso de software, <br>
+presentada desde una perspectiva especifica<br>
+Dicho de otra forma, los procesos son instancias de un modelo de
+proceso<br>
+Ejemplos de perspectivas del proceso de software:
+I Flujo de trabajo, secuencia de actividades<br>
+I Flujo de datos, <br>
+ujo de la informacion<br>
+I Rol/accion, quien realiza que<br>
+
+<h2> <strong> Clasificacion de los modelos de procesos de software</strong> </h2> <br>
+<strong> Modelos tradicionales </strong><br>
+Formados por un conjunto de fases o actividades en las que no tienen en
+cuenta la naturaleza evolutiva del software<br>
+<strong>Modelos evolutivos</strong><br>
+Son modelos que se adaptan a la evolucion que sufren los requisitos del
+sistema en funcion del tiempo<br>
+<strong>Modelos para sistemas orientados a objetos </strong><br>
+Modelos con un alto grado de iteratividad y solapamiento entre fases
+<strong> Modelos basados en reutilizacion </strong><br>
+Tienen en cuenta la reutilizacion sistematica del software
+<strong>Procesos agiles </strong><br>
+Enfatizan el desarrollo rapido, ponen el enfasis en la programacion
+<strong> Modelos para sistemas web </strong><br>
+Creados especificamente para el desarrollo de aplicaciones web. <br>
+
+<h3> <strong> Modelo de cascada</strong> </h3> <br>
+El primer modelo de desarrollo de sw que se publico en 1970. Este
+toma las actividades fundamentales del proceso: especicacion,
+desarrollo, validacion y evolucion, y las representa como fases
+
+
