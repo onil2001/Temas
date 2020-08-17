@@ -368,9 +368,9 @@ Enfatizan el desarrollo rapido, ponen el enfasis en la programacion
 Creados especificamente para el desarrollo de aplicaciones web. <br>
 
 <h3> <strong> Modelo de cascada</strong> </h3> <br>
-<center><img src="https://raw.githubusercontent.com/onil2001/Temas/master/img/cascada.jpg" width="300" height="300"> </center>
-El primer modelo de desarrollo de sw que se publico en 1970. Este
-toma las actividades fundamentales del proceso: especicacion,
-desarrollo, validacion y evolucion, y las representa como fases
+<center><img src="https://raw.githubusercontent.com/onil2001/Temas/master/img/cascada.jpg" width="300" height="300"> </center> <br>
+El primer modelo de desarrollo de sw que se publico en 1970. Este
+toma las actividades fundamentales del proceso: especicacion,
+desarrollo, validacion y evolucion, y las representa como fases
 
 
