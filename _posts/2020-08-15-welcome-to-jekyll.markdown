@@ -405,6 +405,15 @@ Consiste en la iteraci´on de varios ciclos de vida en cascada. Al final de  cad
 El cliente es quien despu´es de cada iteraci´on evalu´a el producto y lo  corrige o propone mejoras. <br>
 Estas iteraciones se repetir´an hasta obtener un producto que satisfaga  las necesidades del cliente. <br>
 Este modelo se suele utilizar en proyectos en los que los requisitos no  est´an claros por parte del usuario, por lo que se hace necesaria la  creaci´on de distintos prototipos para presentarlos y conseguir la  conformidad del cliente. <br>
+<h3> <strong>Modelo iterativo</strong> </h3> <br>
+<center><img src="https://raw.githubusercontent.com/onil2001/Temas/master/img/iterativo.jpg" width="300" height="300"> </center> <br>
+Entrega un sistema completo desde el principio, para posteriormente  cambiar la funcionalidad de cada subsistema con cada version.<br>
+Caracter´ısticas del ciclo iterativo [Muller, 1997] <br>
+) Se basa en la evoluci´on de prototipos ejecutables, mensurables y  evaluables <br>
+) Se van incorporando cambios en cada iteraci´on <br>
+) Exige m´as atenci´on e implicaci´on de todos los actores del proyecto <br>
+Para evaluar las iteraciones se deben definir criterios. <br>
+
 
 
 
