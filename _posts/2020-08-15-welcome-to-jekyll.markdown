@@ -392,3 +392,15 @@ nuevos requisitos. <br>
 
 <h3> <strong> Modelo con prototipos</strong> </h3> <br>
 <center><img src="https://raw.githubusercontent.com/onil2001/Temas/master/img/prototipo.jpg" width="300" height="300"> </center> <br>
+Un prototipo es un modelo experimental de un sistema o de un  componente de un sistema que tiene los suficientes elementos que  permiten su uso.
+<br>
+Son un medio eficaz para aclarar los requisitos de los usuarios e  identificar las caracter´ısticas de un sistema que deben cambiarse o  an˜adirse<br>
+Mediante el prototipo se puede verificar la viabilidad del diseño de un  sistema <br>
+Tiene un enfoque de desarrollo desechable (version rudimentaria del  sistema que luego se lo desecha), evolutivo (el prototipo debe  convertirse en el sistema final) y mixto (combinacion de prototipos  desechables y evolutivos).<br>
+Enfoque de desarrollo que se utiliza cuando no se conoce con  seguridad lo que se quiere construir.<br>
+<h3> <strong> Modelo incremental</strong> </h3> <br>
+<center><img src="https://raw.githubusercontent.com/onil2001/Temas/master/img/incremental.jpg" width="300" height="300"> </center> <br>
+
+
+
+
