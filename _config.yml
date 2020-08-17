@@ -23,7 +23,7 @@ email: bimf2001@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Cualquier pregunta comuniquese en nuestras redes. Que con gusto podre ayudarles
 baseurl: "/Temas/" # the subpath of your site, e.g. /blog
-url: "https://twitter.com/Bimf2001" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: bimf2001
 github_username:  onil2001
 
