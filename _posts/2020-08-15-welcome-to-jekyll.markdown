@@ -447,9 +447,9 @@ Menor ´enfasis en el analisis, diseño y documentacion <br>  Equipos pequenos <
 Desarrollo incremental<br>
 Programacion (planificaci´on temporal) en cajas de tiempo  Supervivencia en un entorno ca´otico <br> <br>
 
-h3> <strong>Scrum</strong> </h3> <br>
+<h3> <strong>Scrum</strong> </h3> <br>
 <center><img src="https://raw.githubusercontent.com/onil2001/Temas/master/img/scrum.jpg" width="400" height="300"> </center> <br>
-h3> <strong>eXtreme Programming </strong> </h3> <br>
+<h3> <strong>eXtreme Programming </strong> </h3> <br>
 <center><img src="https://raw.githubusercontent.com/onil2001/Temas/master/img/xp.jpg" width="400" height="300"> </center> <br>
 
 
