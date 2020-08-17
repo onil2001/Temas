@@ -371,6 +371,16 @@ Creados especificamente para el desarrollo de aplicaciones web. <br>
 <center><img src="https://raw.githubusercontent.com/onil2001/Temas/master/img/cascada.jpg" width="300" height="300"> </center> <br>
 El primer modelo de desarrollo de sw que se publico en 1970. Este
 toma las actividades fundamentales del proceso: especicacion,
-desarrollo, validacion y evolucion, y las representa como fases
+desarrollo, validacion y evolucion, y las representa como fases <br>
+El modelo en cascada consta de las siguientes fases: <br>
+<strong> Definicion de los requisitos: </strong>  Los servicios, restricciones y objetivos
+son establecidos con los usuarios del sistema.  <br>
+<strong> Diseño de software: </strong> <br>
+Se particiona el sistema en sistemas de software
+o hardware. Se establece la arquitectura total del sistema. Se
+identifcan y describen las abstracciones y relaciones de los
+componentes del sistema. <br>
+<strong>Implementacion y pruebas unitarias: </strong> Construccion de los modulos
+y unidades de software. Se realizan pruebas de cada unidad. <br>
 
 
