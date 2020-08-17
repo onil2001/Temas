@@ -121,7 +121,51 @@ Diseñar, construir y administrar bases de datos.
 Liderar y orientar a los programadores durante el desarrollo de
 aplicaciones.
 Incluir procesos de calidad en los sistemas, calculando métricas
-e indicadores y chequeando la calidad del software producido.
+e indicadores y chequeando la calidad del software producido. <br>
+
+<strong> <h3> Origen de IS: </h3> </strong>
+Ingeniería del So-ware, es el término utlizado por Fritz Bauer en la
+primera conferencia sobre desarrollo de so-ware patrocinada por el
+Comité de Ciencia de la OTAN celebrada en Garmisch (Alemania), en
+octubre de 1968, previamente había sido utilizado por el
+holandés Edsger Dijkstra en su obra The Humble Programmer.
+Puede definirse según Alan Davis como "la aplicación inteligente de
+principios probados, técnicas, lenguajes y herramientas para la
+creación y mantenimiento, dentro de un coste razonable, de sofware
+que satisfaga las necesidades de los usuarios".<br>
+
+<strong> <h4> Origen de IS (continúa) </h4> </strong>
+Su origen se debió a que el entorno de desarrollo de sistemas
+software adolecía de:
+Retrasos considerables en la planificación
+Poca productividad
+Elevadas cargas de mantenimiento
+Demandas cada vez más desfasadas frente a las ofertas
+Baja calidad y fiabilidad del producto
+Dependencia de los realizadores. <br>
+<strong> -Esto es lo que se ha denominado habitualmente "crisis del
+software", que históricamente se generó en los siguientes
+pasos:</strong> <br>
+-Primera Fase. Los albores (1945-1955)<br>
+-Programar no es una tarea diferenciada del diseño de una
+máquina. <br>
+-Uso de lenguaje máquina y ensamblador.<br>
+-Segunda Fase. El florecimiento (1955-1965)<br>
+-Aparecen multitud de lenguajes<br>
+-Se pensaba que era posible hacer casi todo.<br>
+
+-Tercera Fase. La crisis (1965-1970)-Desarrollo inacabable de grandes programas<br>
+-Ineficiencia, errores, coste impredecible<br>
+-Nada es posible.<br>
+-Cuarta Fase. Innovación conceptual (1970-1980)<br>
+-Fundamentos de programación<br>
+-Verificación de programas<br>
+-Metodologías de diseño.<br>
+
+-Quinta Fase. El diseño es el problema (1980-?)<br>
+-Entornos de programación<br>
+-Especificación formal<br>
+-Programación automática.<br>
 
 
 
