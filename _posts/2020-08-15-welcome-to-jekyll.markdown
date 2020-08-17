@@ -413,6 +413,45 @@ Caracter´ısticas del ciclo iterativo [Muller, 1997] <br>
 ) Se van incorporando cambios en cada iteraci´on <br>
 ) Exige m´as atenci´on e implicaci´on de todos los actores del proyecto <br>
 Para evaluar las iteraciones se deben definir criterios. <br>
+<h3> <strong>Modelo en espiral</strong> </h3> <br>
+<center><img src="https://raw.githubusercontent.com/onil2001/Temas/master/img/espiral.jpg" width="400" height="300"> </center> <br>
+Es un modelo de proceso de software evolutivo, que proporciona el  potencial para el desarrollo r´apido de versiones incrementales del  software <br>
+Se divide en un nu´mero de actividades estructurales, tambi´en  denominadas regiones de tareas. <br>
+El avance se realiza desde el centro de la espiral hacia el exterior <br>
+Reune caracter´ısticas del modelo cl´asico y de prototipos <br>
+<h3> <strong>Modelo El proceso unificado </strong> </h3> <br>
+<center><img src="https://raw.githubusercontent.com/onil2001/Temas/master/img/unificado.jpg" width="400" height="300"> </center> <br>
+Definido por Rational Software Corporation [Jacobson et al., 2000] <br>
+) Evoluci´on del proceso Objectory de Rational <br>
+) Utilizaci´on de UML [Booch et al., 1999] como lenguaje de modelado <br>
+) Basado en componentes <br>
+Caracter´ısticas:
+Conducido por casos de uso, para asegurar que toda la  funcionalidad se realiza en el sistema, se verifica y se prueba. el  sistema y verificar y probar el mismo <br>
+Centrado en la arquitectura, ´esta se describe mediante diferentes  vistas del sistema <br>
+El Proceso Unificado se repite a lo largo de una serie de ciclos, cuyas  fases por cada uno es:
+Inicio, se define el alcance del proyecto y se desarrollan los casos de  negocio<br>
+Elaboracion, se planifica el proyecto, se especifican en detalle la  mayor´ıa de los casos de uso y se disen˜a la arquitectura del sistema <br>
+Construccion, se construye el producto <br>
+Transicion, el producto se convierte en versi´on beta. Se corrigen  problemas y se incorporan mejoras sugeridas en la revisi´on <br>
+<h3> <strong>basado en componentes</strong> </h3> <br>
+<center><img src="https://raw.githubusercontent.com/onil2001/Temas/master/img/componentes.jpg" width="400" height="300"> </center> <br>
+Para el desarrollo con reutilizaci´on debe ser posible encontrar los  componentes reutilizables apropiados <br>
+Se debe confiar en que los componentes que se utilizan se comportan  conforme a lo especificado y son fiables <br>
+Los componentes deben tener documentaci´on asociada para ayudar a  comprenderlos y adaptarlos a una nueva aplicacion <br>
+
+
+<h3> <strong>Modelo agil</strong> </h3> <br>
+<center><img src="https://raw.githubusercontent.com/onil2001/Temas/master/img/agil.jpg" width="400" height="300"> </center> <br>
+Constituyen un nuevo enfoque en el desarrollo de software cuyas  principales caracter´ısticas son: <br>
+Menor ´enfasis en el analisis, diseño y documentacion <br>  Equipos pequenos <br>
+Desarrollo incremental<br>
+Programacion (planificaci´on temporal) en cajas de tiempo  Supervivencia en un entorno ca´otico <br> <br>
+
+h3> <strong>Scrum</strong> </h3> <br>
+<center><img src="https://raw.githubusercontent.com/onil2001/Temas/master/img/scrum.jpg" width="400" height="300"> </center> <br>
+h3> <strong>eXtreme Programming </strong> </h3> <br>
+<center><img src="https://raw.githubusercontent.com/onil2001/Temas/master/img/xp.jpg" width="400" height="300"> </center> <br>
+
 
 
 
