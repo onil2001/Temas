@@ -399,7 +399,15 @@ Mediante el prototipo se puede verificar la viabilidad del diseño de un  sistem
 Tiene un enfoque de desarrollo desechable (version rudimentaria del  sistema que luego se lo desecha), evolutivo (el prototipo debe  convertirse en el sistema final) y mixto (combinacion de prototipos  desechables y evolutivos).<br>
 Enfoque de desarrollo que se utiliza cuando no se conoce con  seguridad lo que se quiere construir.<br>
 <h3> <strong> Modelo incremental</strong> </h3> <br>
-<center><img src="https://raw.githubusercontent.com/onil2001/Temas/master/img/incremental.jpg" width="300" height="300"> </center> <br>
+<center><img src="https://raw.githubusercontent.com/onil2001/Temas/master/img/incremental.png" width="300" height="300"> </center> <br>
+Es un modelo derivado del ciclo de vida en cascada. Este modelo  busca reducir el riesgo que surge entre las necesidades del usuario y el  producto final por malos entendidos durante la etapa de recogida de  requisitos. <br>
+Consiste en la iteraci´on de varios ciclos de vida en cascada. Al final de  cada iteraci´on se le entrega al cliente una versi´on mejorada o con  mayores funcionalidades del producto <br>
+El cliente es quien despu´es de cada iteraci´on evalu´a el producto y lo  corrige o propone mejoras. <br>
+Estas iteraciones se repetir´an hasta obtener un producto que satisfaga  las necesidades del cliente. <br>
+Este modelo se suele utilizar en proyectos en los que los requisitos no  est´an claros por parte del usuario, por lo que se hace necesaria la  creaci´on de distintos prototipos para presentarlos y conseguir la  conformidad del cliente. <br>
+
+
+
 
 
 
