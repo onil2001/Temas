@@ -191,7 +191,7 @@ desarrollo de software. <br>
 -Herramientas de soporte
 -Administración eficaz <br>
 
-<h3> <strong>La crisis del software </h3> </strong>
+<h3> <strong>La crisis del software  </strong> </h3> <br>
 Actualmente está surgiendo una gran expectativa ante la evolución de
 la Ingeniería del Software, al ir apareciendo nuevos métodos y herramientas
 formales que van a permitir en el futuro un planteamiento de ingeniería en
@@ -204,7 +204,7 @@ Dicho planteamiento permitirá dar respuesta a los problemas de: <br>
 Este último es uno de los grandes problemas, pues puede llegar a suponer
 un importe superior al 60% del total del coste del software.<br>
 
-<h3> <strong>¿Por qué se crea la IS? </h3> </strong>
+<h3> <strong>¿Por qué se crea la IS?  </strong> </h3>
 -La ingeniería de software se crea debido a las siguientes características:
 -El producto debe ser confiable y realizar sólo las tareas especificadas en los
 requerimientos. <br>
@@ -216,7 +216,7 @@ que pueda ser incorporado en otro producto de software si se requiere. <br>
 -El producto de software debe ser eficiente en el uso de los recursos del
 sistema. <br>
 
-<h3> <strong> ¿Por qué se crea la IS? (continúa) </h3> </strong>
+<h3> <strong> ¿Por qué se crea la IS? (continúa) </strong> </h3> 
 -Se requiere desarrollar el software en una manera que lo haga evolutivo,
 de forma tal que se pueda agregar funcionalidad adicional sin efectos
 perjudiciales. <br>
@@ -230,7 +230,7 @@ puede trabajar bajo diferentes plataformas de software y ambientes
 uso debe ser los suficientemente sencillo por parte de personas no
 especialistas. <br>
 
-<h3> <strong> El software en la actualidad: </h3> </strong>
+<h3> <strong> El software en la actualidad: </strong>  </h3>
 Las direcciones en las que evoluciona la ingeniería del so-ware
 hoy en día pueden agruparse de la siguiente manera:
 -Metodologías ágiles: métodos de desarrollo de so-ware
@@ -242,7 +242,7 @@ Febrero del 2001 se publicó “Manifesto for Agile So-ware
 Development” para definir la aproximación ahora conocida
 como metodologías ágiles.<br>
 
-<h3> <strong>El software en la actualidad (continúa) </h3> </strong> <br>
+<h3> <strong>El software en la actualidad (continúa)  </strong>  </h3> <br>
 -Experimentación: es una rama de la ingeniería del software
 interesada en realizar experimentos sobre software, recolectar
 datos y deducir leyes y teorías de los mismos.
@@ -252,6 +252,17 @@ posteriormente se construye el software.
 -Líneas de productos software, en lugar de productos
 individuales. <br>
 
+<h2> <strong> FACTORES DE CALIDAD DEL SOFTWARE </strong> </h2> <br>
+- Concepto de Calidad: Conjunto de propiedades y de características de un producto o servicio, que le confieren aptitud para satisfacer una necesidad explícita o implícita (ISO 8402).<br>
+- Calidad del Software: Es el grado con el que un sistema, componente o proceso cumple los requerimientos especificados y las necesidades o expectativas del cliente o usuario.<br>
+
+- Factores que determinan la calidad del software.<br>
+
+- Se pueden clasificar en dos grandes grupos (Pressman):<br>
+
+-Medidas Directas: La medida o medición decimos que es directa, cuando disponemos de un instrumento de medida que nos muestra un resultado (generalmente numérico).<br>
+
+-Medidas Indirectas: Cuando hablamos de sistemas informáticos no siempre es posible realizar una medida directa, porque no disponemos del instrumento adecuado que nos permita realizar esa medición <br>
 
 
 
